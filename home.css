@@ -4,6 +4,16 @@
 
 }
 
+:root{
+    --azul-escuro: #03045e;
+    --azul-cinza: #0077b6;
+    --azul: #00b4d8;
+    --azul-claro: #90e0ef;
+    --branco: #fffbf0;
+    --preto: #000814;
+    --cinza: #415a77;
+}
+
 img{
-    width: 100%;
+    width: 80%;
 }
