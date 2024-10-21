@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-
+    font-family: "Prociono", serif;
 }
 
 :root{
@@ -12,6 +12,15 @@
     --branco: #fffbf0;
     --preto: #000814;
     --cinza: #415a77;
+    --lilas: #fdf0d5;
+}
+
+body{
+    background-color: var(--lilas);
+}
+
+h1{
+    background-color: var(--azul-claro);
 }
 
 img{
