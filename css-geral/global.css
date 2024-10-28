@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* fontes: H1:Playfair display h2:Work sans p:montserrat */
+
+:root{
+    --fundo: #edede9;
+    --texto: #2b2d42;
+    --white: #fff;
+    --barra: #3a0ca3;
+    --text2: #ecf8f8;
+    
+}
