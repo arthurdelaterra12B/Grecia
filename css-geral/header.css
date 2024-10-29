@@ -3,7 +3,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-inline: 5rem;
+    padding-inline: 1rem;
     height: 6rem;
     font-family: "Playfair display", sans-serif;
 }
@@ -14,6 +14,10 @@ header a{
     font-weight: bold;
     font-size: 1rem;
     letter-spacing: 0.2rem;
+}
+
+header a.atual{
+    color: var(--azul-claro);
 }
 
 header ul{
@@ -30,4 +34,10 @@ header div img {
     width: 5rem;
     height: 5rem;
     border-radius: 50%;
+}
+
+header div:hover,
+header li:hover {
+    transform: scale(1.1);
+    transition: .5s;
 }
