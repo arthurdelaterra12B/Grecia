@@ -1,3 +1,8 @@
 @import "./css-geral/global.css";
 @import "./css-geral/header.css";
 
+body{
+    font-size: 1.6rem;
+    
+}
+
