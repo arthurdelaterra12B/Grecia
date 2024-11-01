@@ -16,5 +16,18 @@
 
     font-size: 62.5%;
 
-    
+    --home-bg: url(../assis/Pag1.png);
+    --historia-bg: url(../assis/Historis.png);
+    --historia2-bg: url(../assist-2/historia-1.jfif);
+    --historia3-bg: url(../assist-2/historia-2.jfif);
+    --historia4-bg: url(../assist-2/historia-3.webp);
+    --cultura-bg: url(../assist-2/cultura-1.jfif);
+    --cultura2-bg: url(../assist-2/cultura-2.PNG);
+    --cultura3-bg: url(../assist-2/cultura-3.PNG);
+    --cultura4-bg: url(../assist-2/cultura-4.PNG);
+    --cultura5-bg: url(../assist-2/cultura-5.PNG);
+    --cultura6-bg: url(../assist-2/cultura-6.PNG);
+    --arthur-bg: url(../assist-2/criadores-1.PNG);
+    --joao-bg: url(../assist-2/criadores-2.PNG);
+    --kauan-bg: url(../assist-2/criadores-3.PNG);
 }
