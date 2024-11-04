@@ -14,6 +14,8 @@ h1{
 }
 
 p {
+    font-family: 'montserrat', sans-serif;
+    color: var(--texto);
     font-size: 2.1rem;
     margin: 10rem;
     height: 2rem;

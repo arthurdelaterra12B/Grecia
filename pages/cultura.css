@@ -1,2 +1,51 @@
 @import "../css-geral/global.css";
 @import "../css-geral/header.css";
+
+body{
+    background-color: var(--fundo);
+}
+
+h1{
+    font-family: 'Work sans', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    font-size: 7rem;
+    margin-bottom: 3rem;
+}
+
+h2{
+    font-family: 'Playfair display', sans-serif;
+    font-size: 5rem;
+}
+
+p{
+    font-family: 'montserrat', sans-serif;
+    color: var(--texto);
+    font-size: 2rem;
+}
+
+.um{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.aa{
+    margin-right: 2rem;
+}
+
+.aa h2{
+    margin-left: 20rem;
+}
+
+.aa p{
+    margin-left: 10rem;
+}
+
+.um img{
+    max-width: 100%;
+    height: auto;
+    margin-right: 10rem;
+    width: 20rem;
+    height: auto;
+}
