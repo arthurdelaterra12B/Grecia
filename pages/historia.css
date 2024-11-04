@@ -1,2 +1,66 @@
 @import "../css-geral/global.css";
 @import "../css-geral/header.css";
+
+body{
+    background-color: var(--fundo);
+}
+
+h1{
+    font-family: 'Work sans', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    font-size: 7rem;
+    height: 2rem;
+}
+
+p {
+    font-size: 2.1rem;
+    margin: 10rem;
+    height: 2rem;
+    margin-bottom: 2rem;
+}
+
+.um p{
+    margin-bottom: 1rem;
+}
+
+.um img{
+    text-align: center;
+    height: auto;
+    width: 100rem;
+    margin: 11rem;
+    margin-bottom: 2rem;
+}
+
+.dois p{
+    margin-top: 1rem;
+}
+
+.dois img{
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    margin-left: 15rem;
+    width: 40rem;
+    height: auto;
+    margin-right: 0.5rem;
+}
+
+.tres p{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.tres img{
+    text-align: center;
+    height: auto;
+    width: 100rem;
+    margin: 11rem;
+    margin-bottom: 2rem;
+    margin-top: 7rem;
+}
+
+.quatro p{
+    margin-top: 2rem;
+    margin-bottom: 10rem
+}
