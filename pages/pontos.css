@@ -1,2 +1,95 @@
 @import "../css-geral/global.css";
 @import "../css-geral/header.css";
+
+
+body{
+    background-color: var(--fundo);
+}
+
+h1{
+    font-family: 'Work sans', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    font-size: 7rem;
+    margin-bottom: 3rem;
+}
+
+h2{
+    font-family: 'Playfair display', sans-serif;
+    font-size: 5rem;
+}
+
+p{
+    font-family: 'montserrat', sans-serif;
+    color: var(--texto);
+    font-size: 2rem;
+}
+
+.um{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.um h2{
+    align-items: center;
+    margin-left: 20rem;
+}
+
+.aa p{
+    margin-right: 5rem;
+    margin-left: 2rem;
+}
+
+.um img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 10rem;
+}
+
+.dois{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.dois h2{
+    align-items: center;
+    margin-left: 30rem;
+}
+
+.bb p{
+    margin-right: 5rem;
+    margin-left: 2rem;
+}
+
+.dois img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 10rem;
+}
+
+.tres{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.tres h2{
+    align-items: center;
+    margin-left: 30rem;
+}
+
+.cc p{
+    margin-right: 5rem;
+    margin-left: 2rem;
+}
+
+.tres img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 10rem;
+}
