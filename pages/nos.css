@@ -1,2 +1,108 @@
 @import "../css-geral/global.css";
 @import "../css-geral/header.css";
+
+body{
+    background-color: var(--fundo);
+}
+
+h1{
+    font-family: 'Work sans', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    font-size: 7rem;
+    margin-bottom: 3rem;
+}
+
+a{
+    font-family: 'Playfair display', sans-serif;
+    font-size: 5rem;
+}
+
+p{
+    font-family: 'montserrat', sans-serif;
+    color: var(--texto);
+    font-size: 7rem;
+}
+
+
+.arthur{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.arthur a{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-left: 2rem;
+    text-decoration: none;
+    color: var(--preto);
+    background-color: var(--vermelho);
+}
+
+.aa p{
+    margin-right: 30rem;
+    margin-left: 0rem;
+}
+
+.arthur img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 10rem;
+}
+
+.kauan{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.kauan a{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-left: 22rem;
+    text-decoration: none;
+    color: var(--preto);
+    background-color: var(--amarelo);
+}
+
+.bb p{
+    margin-right: 15rem;
+    margin-left: 5rem;
+}
+
+.kauan img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 10rem;
+}
+
+.joao{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.joao a{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-left: 22rem;
+    text-decoration: none;
+    color: var(--preto);
+    background-color: var(--verde);
+}
+
+.cc p{
+    margin-right: 5rem;
+    margin-left: 0.1rem;
+}
+
+.joao img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 10rem;
+    margin-right: 1rem;
+}
