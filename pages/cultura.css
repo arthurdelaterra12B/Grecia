@@ -28,6 +28,7 @@ p{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 5rem;
 }
 
 .aa{
@@ -35,7 +36,7 @@ p{
 }
 
 .aa h2{
-    margin-left: 20rem;
+    margin-left: 40rem;
 }
 
 .aa p{
@@ -46,6 +47,125 @@ p{
     max-width: 100%;
     height: auto;
     margin-right: 10rem;
-    width: 20rem;
+    width: 50rem;
     height: auto;
+}
+
+.dois{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.dois h2{
+    align-items: center;
+    margin-left: 15rem;
+}
+
+.bb p{
+    margin-right: 10rem;
+    margin-left: 2rem;
+}
+
+.dois img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 10rem;
+}
+
+.tres {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.cc{
+    margin-right: 2rem;
+}
+
+.cc h2{
+    margin-left: 35rem;
+}
+
+.cc p{
+    margin-left: 10rem;
+}
+
+.tres img{
+    max-width: 100%;
+    height: auto;
+    margin-right: 10rem;
+    margin-left: 2rem;
+}
+
+.quatro{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.dd h2{
+    margin-left: 30rem;
+}
+
+.dd p{
+    margin-right: 10rem;
+    margin-left: 2rem;
+}
+
+.quatro img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 10rem;
+}
+
+.cinco{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.ee{
+    margin-right: 2rem;
+}
+
+.ee h2{
+    margin-left: 25rem;
+}
+
+.ee p{
+    margin-left: 10rem;
+}
+
+.cinco img{
+    max-width: 100%;
+    height: auto;
+    margin-right: 10rem;
+    margin-left: 2rem;
+}
+
+.sex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.ff h2{
+    margin-left: 10rem;
+}
+
+.ff p{
+    margin-right: 10rem;
+    margin-left: 2rem;
+}
+
+.sex img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 10rem;
 }
