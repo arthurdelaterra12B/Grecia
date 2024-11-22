@@ -16,13 +16,13 @@
     --preto: #000000;
     --cinza: #8d99ae;
     --azul-escuro: #003f88;
-    --vermelho: #ef233c;
-    --verde: #7cb518;
-    --amarelo: #fee440;
+    --vermelho: #093be2;
+    --verde: #2e5fca;
+    --amarelo: #40a8fe;
 
     font-size: 62.5%;
 
-    --home-bg: url(../assist3/tela-1.PNG);
+    --home-bg: url(../Assest-5/Fundo.avif);
     --historia-bg: url(../assis/Historis.png);
     --historia2-bg: url(../assist-2/historia-1.jfif);
     --historia3-bg: url(../assist-2/historia-2.jfif);

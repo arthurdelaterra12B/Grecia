@@ -13,7 +13,7 @@ h1{
     margin-bottom: 3rem;
 }
 
-a{
+main a{
     font-family: 'Playfair display', sans-serif;
     font-size: 5rem;
 }
@@ -37,8 +37,8 @@ p{
     padding-right: 2rem;
     margin-left: 2rem;
     text-decoration: none;
-    color: var(--preto);
-    background-color: var(--vermelho);
+    color: var(--azul-claro);
+    background-color: var(--barra);
 }
 
 .aa p{
@@ -49,7 +49,7 @@ p{
 .arthur img{
     max-width: 100%;
     height: auto;
-    margin-left: 10rem;
+    margin-left: 40rem;
 }
 
 .kauan{
@@ -62,10 +62,10 @@ p{
 .kauan a{
     padding-left: 2rem;
     padding-right: 2rem;
-    margin-left: 22rem;
+    margin-left: 2rem;
     text-decoration: none;
-    color: var(--preto);
-    background-color: var(--amarelo);
+    color: var(--azul-claro);
+    background-color: var(--barra);
 }
 
 .bb p{
@@ -76,7 +76,7 @@ p{
 .kauan img{
     max-width: 100%;
     height: auto;
-    margin-left: 10rem;
+    margin-left: 40rem;
 }
 
 .joao{
@@ -89,10 +89,10 @@ p{
 .joao a{
     padding-left: 2rem;
     padding-right: 2rem;
-    margin-left: 22rem;
+    margin-left: 20rem;
     text-decoration: none;
-    color: var(--preto);
-    background-color: var(--verde);
+    color: var(--azul-claro);
+    background-color: var(--barra);
 }
 
 .cc p{
@@ -103,6 +103,5 @@ p{
 .joao img{
     max-width: 100%;
     height: auto;
-    margin-left: 10rem;
-    margin-right: 1rem;
+    margin-left: 40rem;
 }
