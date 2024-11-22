@@ -50,6 +50,7 @@ p{
     max-width: 100%;
     height: auto;
     margin-left: 40rem;
+    border-radius: 2rem;
 }
 
 .kauan{
@@ -62,7 +63,7 @@ p{
 .kauan a{
     padding-left: 2rem;
     padding-right: 2rem;
-    margin-left: 2rem;
+    margin-left: 20rem;
     text-decoration: none;
     color: var(--azul-claro);
     background-color: var(--barra);
@@ -77,6 +78,7 @@ p{
     max-width: 100%;
     height: auto;
     margin-left: 40rem;
+    border-radius: 2rem;
 }
 
 .joao{
@@ -104,4 +106,5 @@ p{
     max-width: 100%;
     height: auto;
     margin-left: 40rem;
+    border-radius: 2rem;
 }
